@@ -16,7 +16,7 @@ next tutorial.
 <br>
 $ git clone https://github.com/LOoLzeC/DarkSploit
 <br>
-$ cd DarkSploit
+$ cd drksploit
 <br>
 $ cd Install
 <br>
@@ -35,7 +35,7 @@ $ python2 DrXp.py
 <br>
 $ git clone https://github.com/LOoLzeC/DarkSploit
 <br>
-$ cd DarkSploit
+$ cd drksploit
 <br>
 $ cd Install
 <br>
